@@ -11,6 +11,8 @@
 Proyecto del **Corte 3** del curso de Inteligencia Artificial 2026-1S
 Universidad Jorge Tadeo Lozano · Facultad de Ciencias Naturales e Ingeniería
 
+Interfaz grafica: https://6815d8cab0967a194d.gradio.live/
+
 ---
 
 ## 👥 Integrantes y roles
