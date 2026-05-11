@@ -1,0 +1,21 @@
+# Cómputo y datos
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.13.0
+
+# Machine Learning
+xgboost>=2.0.0
+scikit-learn>=1.4.0
+optuna>=3.5.0
+
+# Visualización
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Demo interactiva
+gradio>=4.20.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.0
+nbformat>=5.10.0
