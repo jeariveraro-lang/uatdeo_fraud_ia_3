@@ -190,7 +190,7 @@ Versiones exactas en [`requirements.txt`](requirements.txt).
 | **Demo funcional** con 3 casos de prueba | `app/demo_gradio.py` | ✅ |
 | **Informe técnico** (8-12 págs) | [`docs/informe_corte3.pdf`](docs/informe_corte3.pdf) | ✅ |
 | **Póster** con plantilla UTadeo | [`docs/poster.pdf`](docs/poster.pdf) | ✅ |
-| **Video en YouTube** (8-12 min) | [insertar URL antes de entregar] | 🎥 |
+| **Video en YouTube** (8-12 min) | [fraud_IA](https://youtu.be/_5OPG2mYfQM) | 🎥 |
 | **README reproducible** | (este archivo) | ✅ |
 
 ---
